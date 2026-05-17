@@ -1,0 +1,13 @@
+{
+  "name": "aegis",
+  "version": "1.0.0",
+  "description": "Aegis application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
